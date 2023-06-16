@@ -1,0 +1,25 @@
+@import "./header.css";
+@import "./contact.css";
+@import "./thank-you.css";
+@import "./home.css";
+@import "./footer.css";
+@import "./about.css";
+@import "./gallery.css";
+@import "./small-jobs.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --black: #262223;
+    --primary: #32628C;
+    /* --secondary: #E19E20; */
+    /* nicer secondary(gold) #d4af37 */
+    --secondary: #d4af37;
+    --light: #E6F4F1;
+    --primaryLight: #6994C2;
+    --secondaryLight: #FFEDCB;
+    
+    --fontSerif: 'Noto Serif Georgian', serif;
+    --fontSansSerif: Arial, Helvetica, sans-serif;
+}
